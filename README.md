@@ -20,3 +20,4 @@ The main objectives of the bookstore system are:
 
 * [@evans-njau](https://github.com/evans-njau)
 * [@doreen-ngui](https://github.com/doreen-ngui)
+* [@Elisha-sani](https://github.com/Elisha-sani)
